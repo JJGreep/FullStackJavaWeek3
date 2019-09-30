@@ -1,0 +1,21 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "h2.datasource.password",
+      "type": "java.lang.String",
+      "description": "Description for h2.datasource.password."
+    },
+    {
+      "name": "h2.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for h2.datasource.url."
+    },
+    {
+      "name": "h2.datasource.username",
+      "type": "java.lang.String",
+      "description": "Description for h2.datasource.username."
+    }
+  ],
+  "hints": []
+}
